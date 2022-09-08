@@ -1,5 +1,7 @@
 # easy-fivem README
 
+extension link: https://marketplace.visualstudio.com/items?itemName=DuckWichTrust.easy-fivem&ssr=false#review-details
+
 ensure all opened folders resource (resource folder should be opened) with rcon
 
 ## Features
